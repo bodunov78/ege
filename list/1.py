@@ -19,3 +19,5 @@ with open("1.txt","a+") as f:
 # with open("1.txt","r") as f:
 #     m=f.readlines()
 #     print (m)
+#
+##
