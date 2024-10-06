@@ -57,3 +57,8 @@ my_function(**m)
 # ts=time()
 # fu2()
 # print(time()-ts)
+
+a=[[1,2],[3,4],[5,6]]
+print (*a)
+# b=list(zip(*a))
+# print (b)
